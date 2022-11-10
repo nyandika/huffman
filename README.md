@@ -1,3 +1,3 @@
-Huffman coding algorithm implemented in C#
+## Housing small projects done as part of London Hack Night
 
-This was part of London Hack night, 2022-11-09
+### - Huffman Encoding (Implementation in C#): 2022-11-09
